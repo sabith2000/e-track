@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+*.log
+.env
+
+# Vite/React build
+dist/
+.vite/
+
+# Misc
+*.DS_Store
+Thumbs.db
